@@ -15,7 +15,7 @@ First of all you need to install `Anaconda` package in your computer. Go to [Ana
 
 ### Setup Scrapy
 
-Now that you have installed Anaconda use windows search tool (botton on left screen of your computer) and type `Anaconda Prompt`. The prompt will be open and you have to type follow instruction into it:
+Now that you have installed Anaconda use windows search tool (botton left screen of your computer) and type `Anaconda Prompt`. The prompt will be open and you have to type follow instruction into it:
 
 ```
 conda install -c conda-forge scrapy
