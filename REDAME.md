@@ -10,7 +10,7 @@ This `Readme` file will help you understand how the Multivision project was solv
 
 ### Prerequisites
 
-First of all you need to install the package Anaconda in your computer. Go to [Anaconda Web Page](https://www.anaconda.com/) download and install that package into your machine. The Anaconda has python included so you don't need to download and install python as well. It's a self explanatory and easy installation.
+First of all you need to install `Anaconda` package in your computer. Go to [Anaconda Web Page](https://www.anaconda.com/) download and install that package into your machine. The Anaconda has python included so you don't need to download and install python as well. It's a self explanatory and easy installation.
 
 
 ### Setup Scrapy
