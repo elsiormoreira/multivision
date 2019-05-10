@@ -18,7 +18,7 @@ class DruksoSpider(scrapy.Spider):
         # extract data from webpage using css selector
         tree = response.css("option::attr(value)").extract()
         
-        # return multiple results from extratction
+        # return multiple results from extraction
         row_data = zip(tree)
 
         # transform extracted data into row wise
