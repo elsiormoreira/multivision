@@ -19,7 +19,7 @@ class DruksoSpider(scrapy.Spider):
         tree = response.css("option::attr(value)").extract()
         
         # return multiple results from extratction
-        row_data = zip(prodct)
+        row_data = zip(tree)
 
         # transform extracted data into row wise
         for item in row_data:
