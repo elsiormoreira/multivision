@@ -1,9 +1,9 @@
 # Brokerage Project
 Import Stock Financial Data from PDF Files
 ## Table of Contents
-*[Introduction](#introduction)
-*[Technologies](#technologies)
-*[Illustration]()
+* [Introduction](#introduction)
+* [Technologies](#technologies)
+* [Illustration](#illustration)
 ## Introduction
 ## Technologies
 ## Launch
